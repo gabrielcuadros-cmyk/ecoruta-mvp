@@ -8,7 +8,7 @@ EcoRuta conecta a estudiantes con carro que viajan solos al campus con compañer
 
 ## Probarlo en línea
 
-- URL pública: ver la sección *About* de este repositorio.
+- URL pública: **https://ecoruta-mvp-flame.vercel.app**
 - Credenciales de prueba (ficticias):
 
 | Rol | Correo | Contraseña |
